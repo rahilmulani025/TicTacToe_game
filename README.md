@@ -37,9 +37,7 @@ It’s a simple yet engaging game that includes:
 
 ## 🚀 Live Demo
 
-🔗 **Play the game here:** [Tic-Tac-Toe Game](https://<your-username>.github.io/<repo-name>/)  
-
-*(Replace `<your-username>` and `<repo-name>` with your actual GitHub username and repo name)*
+🔗 **Play the game here:** [Tic-Tac-Toe Game](https://rahilmulani025.github.io/TicTacToe_game/) 
 
 ---
 
